@@ -1,0 +1,14 @@
+{
+  "nombre": "Andres David Ortega Arteaga",
+  "edad": 30,
+  "carrera": "Ingeniria de sistemas",
+  "semestre": 6,
+  "gustos": ["Lectura", "Cine", "Calistenia", "Comer"],
+  "noGustos": [
+    "Despertarse temprano",
+    "Frio",
+    "Ruido fuerte",
+    "Tareas largas"
+  ],
+  "foto": "https://scontent.fclo8-1.fna.fbcdn.net/v/t1.6435-9/57446554_2291249347635280_5951068017747034112_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFeEQ6kNn_UpoDPMnMQExHY2EJHpLLIQLvYQkeksshAu09JxrAXvT67sDKzq34hMJGWVr1TcA3KxV1KJWd5xoF6&_nc_ohc=HeFOsJdRmeEQ7kNvgEdrkL1&_nc_oc=Adh6YDe1mhr7iSjcWNxBTFGVv0uLmMzaGcCmOAIfLueZwEzCe7BdrYm5VU1OuJ8lsXs&_nc_zt=23&_nc_ht=scontent.fclo8-1.fna&_nc_gid=AoOjGHDpZmRSY44cDvbRsnc&oh=00_AYDy0J_lufhgbZgyEBNG7s6AcwEDa2Qaq_5KMy1XlxyRqg&oe=67DB4FC6"
+}
