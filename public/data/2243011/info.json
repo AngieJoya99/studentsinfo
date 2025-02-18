@@ -1,0 +1,14 @@
+{
+  "nombre": "Sheila Marcela Valencia Chito",
+  "edad": 21,
+  "carrera": "Ingenieria de sistemas",
+  "semestre": 6,
+  "gustos": ["Lectura", "Cine", "Viajar", "Mar"],
+  "noGustos": [
+    "Despertarse temprano",
+    "Ruido fuerte",
+    "Tareas largas",
+    "Frio extremo"
+  ],
+  "foto": "https://i.pinimg.com/736x/02/08/12/020812624c380d660646f23ee189724a.jpg"
+}
