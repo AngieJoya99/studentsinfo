@@ -1,0 +1,11 @@
+{
+  "nombre": "Andrés Felipe Alcántara Muñoz",
+  "edad": 19,
+  "carrera": "Ingeniería de Sistemas",
+  "semestre": 6,
+  "gustos": ["Lectura", "Jugar videojuegos", "Hacer ejercicio", "MMA", "Música"],
+  "noGustos": [
+    "Comida ácida"
+  ],
+  "foto": "https://www.radiomarcabarcelona.com/wp-content/uploads/2024/10/Ilia-Topuria.jpg"
+}
