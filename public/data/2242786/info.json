@@ -1,0 +1,14 @@
+{
+    "nombre": "Miguel Angel Salcedo Urian",
+    "edad": 19,
+    "carrera": "Ingeniria de sistemas",
+    "semestre": 6,
+    "gustos": ["Lectura", "Cine", "Ciclismo de montaña", "Dormir"],
+    "noGustos": [
+      "Despertarse temprano",
+      "Calor",
+      "Desorden",
+      "Tareas largas"
+    ],
+    "foto": "https://revistadigital.mx/wp-content/uploads/2020/12/MD-12-2020-BICICLETA-5-cdmx.jpg"
+  }
