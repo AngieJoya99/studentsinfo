@@ -1,0 +1,14 @@
+{
+  "nombre": "Emily Nuñez Ordoñez",
+  "edad": 20,
+  "carrera": "Ingenieria de sistemas",
+  "semestre": 6,
+  "gustos": ["Leer", "Cine", "Viajar", "naturaleza"],
+  "noGustos": [
+    "Despertarse temprano",
+    "Comida picante",
+    "Ruido fuerte",
+    "Tareas largas"
+  ],
+  "foto": "https://i.pinimg.com/736x/3a/be/50/3abe50f928ca83cacb6ee2516ca6dfb1.jpg"
+}
