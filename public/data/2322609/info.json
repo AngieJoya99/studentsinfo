@@ -1,0 +1,14 @@
+{
+  "nombre": "Angie Carolina Joya Duarte",
+  "edad": 26,
+  "carrera": "Ingenieria de sistemas",
+  "semestre": 5,
+  "gustos": ["Lectura", "Cine", "Viajar", "Música"],
+  "noGustos": [
+    "Despertarse temprano",
+    "Ruido fuerte",
+    "Tareas largas",
+    "Calor"
+  ],
+  "foto": "https://pm1.aminoapps.com/8144/94e42c4b3dc2a4b60cffa548862ae23cfd53dd3er1-630-652v2_00.jpg"
+}
