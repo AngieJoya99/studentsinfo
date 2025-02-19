@@ -1,0 +1,19 @@
+{
+    "nombre": "Elkin Samir Angulo Panameño",
+    "edad": 19,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": [
+        "Linux",
+        "Programación",
+        "Música",
+        "Emulación",
+        "Videojuegos"
+    ],
+    "noGustos": [
+        "Windows",
+        "Deshonestidad",
+        "No hablar de manera clara"
+    ],
+    "foto": "https://maggiesmilk.com/wp-content/uploads/2015/09/IMG_4878.jpg"
+}
