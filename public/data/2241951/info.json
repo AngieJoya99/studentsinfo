@@ -1,0 +1,14 @@
+{
+  "nombre": "Leonardo Cuadro López",
+  "edad": 21,
+  "carrera": "Ingenieria de sistemas",
+  "semestre": 6,
+  "gustos": ["Videojuegos", "Cine", "Dibujar", "Música"],
+  "noGustos": [
+    "Despertarse temprano",
+    "Ruido fuerte",
+    "Tareas largas",
+    "Calor"
+  ],
+  "foto": "https://preview.redd.it/rt4niot9mfp91.png?auto=webp&s=9e0c03118aa157fe275f719bab17b6ca3f4c61aa"
+}
